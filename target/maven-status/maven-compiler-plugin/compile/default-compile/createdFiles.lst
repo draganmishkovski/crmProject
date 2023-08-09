@@ -1,0 +1,11 @@
+com\crm\qa\testcases\pages\DealsPage.class
+com\crm\qa\testcases\base\TestBase.class
+com\crm\qa\testcases\pages\SignUpPage.class
+com\crm\qa\experiment\Demo.class
+com\crm\qa\testcases\pages\ContactsPage.class
+com\crm\qa\testcases\pages\LoginPage.class
+com\crm\qa\testcases\util\ExtentReporter.class
+com\crm\qa\testcases\util\TestUtil.class
+com\crm\qa\testcases\pages\HomePage.class
+com\crm\qa\listiners\MyListeners.class
+com\crm\qa\testcases\pages\TasksPage.class
